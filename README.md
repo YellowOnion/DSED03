@@ -1,5 +1,5 @@
 # DSED03
 
-Xaramin Hangman Game.
+Xamarin hangman game with a twist.
 
 ![screenshot](https://i.imgur.com/H1UgWcp.png)
